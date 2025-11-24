@@ -3,7 +3,7 @@
 PoC of using the `fastify` proxy plugin.
 
 Start the server with `npm run start`.
-Then start the proxy with `npm run proxy`.
+Then start the proxy with `npm run proxy` (or alternatively with `npm run reply`).
 
 Now you can call:
 
